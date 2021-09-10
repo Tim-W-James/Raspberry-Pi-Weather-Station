@@ -1,0 +1,1 @@
+This project was to create a weather station using a Raspberry Pi and python which could output the wind direction, wind speed, temperature and light level.
